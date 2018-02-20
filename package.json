@@ -4,6 +4,10 @@
     "version": "0.1.0",
     "description": "Client module for chatbox-server application",
     "main": "lib/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jbeaulne/chatbot-client.git"
+      },
     "dependencies": {
         "request": "^2.83.0"
     }
