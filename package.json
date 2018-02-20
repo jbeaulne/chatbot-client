@@ -1,7 +1,7 @@
 {
     "name": "chatbox-client",
     "author": "Justin Beaulne",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Client module for chatbox-server application",
     "main": "lib/index.js",
     "license": "MIT",
