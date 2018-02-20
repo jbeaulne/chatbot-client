@@ -1,0 +1,9 @@
+{
+    "name": "chatbox-client",
+    "version": "0.1.0",
+    "description": "Client module for chatbox-server application",
+    "main": "lib/index.js",
+    "dependencies": {
+        "request": "^2.83.0"
+    }
+}
