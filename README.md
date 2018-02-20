@@ -10,6 +10,6 @@ Node client for chatbot-server
 ##Usage
 
 ```javascript
-var ChatboxClient = require('chatbot-client');
+var ChatboxClient = require('chatbox-client');
 var client = new ChatboxClient('localhost', 8080);
 ```
