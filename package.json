@@ -1,14 +1,14 @@
 {
     "name": "chatbox-client",
     "author": "Justin Beaulne",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Client module for chatbox-server application",
     "main": "lib/index.js",
     "license": "MIT",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/jbeaulne/chatbot-client.git"
-      },
+    },
     "dependencies": {
         "request": "^2.83.0"
     }

@@ -4,7 +4,7 @@ Node client for chatbot-server
 ##Install
 
 ```bash
- npm install chatbot-client -save
+ npm install chatbox-client -save
 ```
 
 ##Usage
